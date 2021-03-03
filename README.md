@@ -6,3 +6,7 @@ Book's [Github Repo](https://github.com/PacktPublishing/Python-Machine-Learning-
 
 
 
+## Misc
+
+- [Linear Algebra Review and Reference - Zico Kolter](http://www.cs.cmu.edu/~zkolter/course/linalg/linalg_notes.pdf)
+- 
