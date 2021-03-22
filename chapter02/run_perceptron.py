@@ -68,6 +68,8 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
                        edgecolor='black')
 
 
+# Plot the Decision Boundary
+
 plot_decision_regions(X, y, classifier=ppn)
 plt.xlabel('sepal length [cm]')
 plt.ylabel('petal length [cm]')
